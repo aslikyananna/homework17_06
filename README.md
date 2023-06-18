@@ -1,4 +1,4 @@
-# homework17_06
+Python program N1
 Write a Python program that takes a string as input and counts the frequency of each word in the string. The program should store the word frequencies in a dictionary and display the result.
 
 Here are the steps to follow:
@@ -26,7 +26,7 @@ sample: 2
 sentence: 2
 this: 2
 
-
+Python program N2
 Create a phone book program that allows users to store and retrieve contact information. The program should use dictionaries and lists to store the data.
 
 Implement a menu-based system that provides the following options:
