@@ -6,6 +6,7 @@ for i in x:
         z = z + i
 z = z.lower()
 z = z.split()
+z.sort()
 d = {}
 y = []
 for i in range(len(z)):
